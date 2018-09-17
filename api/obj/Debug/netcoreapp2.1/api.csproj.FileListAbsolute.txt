@@ -1,0 +1,14 @@
+C:\util\Training\Microservices\ASP.Net\NumberTrivia\api\obj\Debug\netcoreapp2.1\api.csprojAssemblyReference.cache
+C:\util\Training\Microservices\ASP.Net\NumberTrivia\api\obj\Debug\netcoreapp2.1\api.csproj.CoreCompileInputs.cache
+C:\util\Training\Microservices\ASP.Net\NumberTrivia\api\obj\Debug\netcoreapp2.1\api.RazorAssemblyInfo.cache
+C:\util\Training\Microservices\ASP.Net\NumberTrivia\api\obj\Debug\netcoreapp2.1\api.RazorAssemblyInfo.cs
+C:\util\Training\Microservices\ASP.Net\NumberTrivia\api\obj\Debug\netcoreapp2.1\api.AssemblyInfoInputs.cache
+C:\util\Training\Microservices\ASP.Net\NumberTrivia\api\obj\Debug\netcoreapp2.1\api.AssemblyInfo.cs
+C:\util\Training\Microservices\ASP.Net\NumberTrivia\api\bin\Debug\netcoreapp2.1\api.deps.json
+C:\util\Training\Microservices\ASP.Net\NumberTrivia\api\bin\Debug\netcoreapp2.1\api.runtimeconfig.json
+C:\util\Training\Microservices\ASP.Net\NumberTrivia\api\bin\Debug\netcoreapp2.1\api.runtimeconfig.dev.json
+C:\util\Training\Microservices\ASP.Net\NumberTrivia\api\bin\Debug\netcoreapp2.1\api.dll
+C:\util\Training\Microservices\ASP.Net\NumberTrivia\api\bin\Debug\netcoreapp2.1\api.pdb
+C:\util\Training\Microservices\ASP.Net\NumberTrivia\api\obj\Debug\netcoreapp2.1\api.RazorTargetAssemblyInfo.cache
+C:\util\Training\Microservices\ASP.Net\NumberTrivia\api\obj\Debug\netcoreapp2.1\api.dll
+C:\util\Training\Microservices\ASP.Net\NumberTrivia\api\obj\Debug\netcoreapp2.1\api.pdb
